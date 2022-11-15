@@ -1,6 +1,6 @@
 # CSC111-ChooseYourOwnAdventure-
 
-# Assignment 02 Readme File
+# Assignment 02 
 
 
 ## Intro: Choose your own adventure
